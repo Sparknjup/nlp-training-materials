@@ -1,0 +1,7 @@
+data/*.json
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+~$*
